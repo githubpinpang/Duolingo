@@ -1,0 +1,2 @@
+# Duolingo
+Amharic Learning App
